@@ -10,7 +10,6 @@ A Java-based Hotel Management System project developed using Swing/AWT for the G
 🔍 Search and View Old Customers
 🔐 Basic Authentication/Login Module (optional)
 
-
 💻 Technologies Used
 
 Java (Swing & AWT) – Frontend UI
